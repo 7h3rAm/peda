@@ -13,7 +13,7 @@ exploit development process on Linux/Unix. It is also a framework for
 writing custom interactive Python GDB commands.
 
 2. Requirements
-    - PEDA 1.0 is only support Linux
+    - PEDA 1.0 runs on Linux only
     - GDB 7.x
     - Python 2.6+
     - Utilities: nasm, readelf, objdump
